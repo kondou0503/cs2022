@@ -1,3 +1,4 @@
 #!/bin/sh
 
-script -a -f -c bash programming_session.log
+# script -a -F -c bash programming_session.log
+script -a -F programming_session.log bash
