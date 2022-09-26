@@ -15,3 +15,58 @@ bash-3.2$ exit
 exit
 
 Script done on Mon Sep 12 16:34:30 2022
+Script started on Mon Sep 19 17:16:41 2022
+command: bash
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   programming_session.log[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-3.2$ git add[K[K[K[K[K[K[Kcat programming_session.log 
+Script started on 2022-09-12 08:30:46+09:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="77" LINES="19"]
+[?2004h]0;nobsun@tpp1g3: ~/Dropbox/Seitoku/2022/A/cs/cs2022[01;32mnobsun@tpp1g3[00m:[01;34m~/Dropbox/Seitoku/2022/A/cs/cs2022[00m$ exit
+[?2004lexit
+
+Script done on 2022-09-12 08:31:08+09:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-09-12 08:36:28+09:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="77" LINES="19"]
+[?2004h]0;nobsun@tpp1g3: ~/Dropbox/Seitoku/2022/A/cs/cs2022[01;32mnobsun@tpp1g3[00m:[01;34m~/Dropbox/Seitoku/2022/A/cs/cs2022[00m$ Script started on Mon Sep 12 16:33:30 2022
+command: bash
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ stack build
+bash-3.2$ exit
+exit
+
+Script done on Mon Sep 12 16:34:30 2022
+Script started on Mon Sep 19 17:16:41 2022
+command: bash
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   programming_session.log[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-3.2$ git add[K[K[K[K[K[K[Kcat programming_session.log 
+bash-3.2$ exit
+exit
+
+Script done on Mon Sep 19 17:17:35 2022
